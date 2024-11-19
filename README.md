@@ -96,7 +96,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ## Fig 5: Selection of Don’t include any libraries
 
-![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
+![Screenshot (63)](https://github.com/user-attachments/assets/667f47e0-86e1-473f-b213-bdf8958a4e54)
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
@@ -134,7 +134,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ## Fig 7: Compiled database in worklib
 
-![01](https://github.com/user-attachments/assets/90c4b755-4563-4702-a451-42e89b9abb4d)
+![Screenshot (64)](https://github.com/user-attachments/assets/1d96c86e-d25d-4353-9375-98ca438ea670)
 
 	After compilation it will come under worklib you can see in right side window
 
